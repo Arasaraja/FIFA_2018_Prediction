@@ -1,6 +1,9 @@
 FIFA 2018 Prediction using H2o
 
+First level basic model using  H20 GBM and DRF predicts Brazil as winner !
+Lot more data preparation, imputing and feature engineering has to be done.
 
+Attached the datasets used and the predicted files.
 
 References:
 
